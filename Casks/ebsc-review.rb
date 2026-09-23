@@ -1,6 +1,6 @@
 cask "ebsc-review" do
-  version "0.1.0"
-  sha256 "3b4ae964637829eda13ce4764eed60492d985b297cbd7e219003e583f729d361"
+  version "0.2.0"
+  sha256 "29b337eb9c4e8788db627c025df37df8f92e14aedeb7561be332cbcb6c745abe"
 
   url "https://github.com/ebsc-dev/review/releases/download/v#{version}/Review_#{version}_universal.dmg"
   name "Review"
